@@ -9,9 +9,9 @@ A short decision-based game.
 This is the my first try of a game played in windows console. It is like the Pokemon RPG games, but very simple. There are few mechanics like moving, attacking, healing, using a lucky wheel. 
 
 ## How to play the game
-### 1. [Install](https://code.visualstudio.com/download) Visual Studio Code for windows 10 and the [GCC Compiler](https://sourceforge.net/projects/mingw-w64/)
+### 1. [Install](https://code.visualstudio.com/download) Visual Studio Code for Windows 10 and the [GCC Compiler](https://sourceforge.net/projects/mingw-w64/)(Windows 10 is necessary)
 ### 2. Put all 4 files inside the same folder
-### 3. Compile and run TypeAdventurer.cpp
+### 3. Compile `TypeAdventurer.cpp` and then run `TypeAdventurer.exe` that was created in the folder
 
 Mechanics:
 - **Map mode**: WASD to move, you are the smily face, ! is your enemy, % is the wheel of fortune which you may or may not spin, ? is a surprise, go to ! or ? to enter the battle mode
