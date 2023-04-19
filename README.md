@@ -14,6 +14,6 @@ This is the my first try of a game played in Windows console. It is like the Pok
 ### 3. Compile `TypeAdventurer.cpp` and then run `TypeAdventurer.exe` that was created in the folder
 
 Mechanics:
-- **Map mode**: WASD to move, you are the smily face, ! is your enemy, % is the wheel of fortune which you may or may not spin, ? is a surprise, go to ! or ? to enter the battle mode
+- **Map mode**: WASD to move, you are the smily face, ! is your enemy, % is the wheel of fortune which you may or may not spin, ? is a surprise, go to ! or ? to enter the *Battle Mode*
 - **Battle mode**: Choose the action you would like to do, your Ultimate has a cooldown, you have limited mana and health, win fights to earn prizes and boost your stats, wining a ? battle gives you a special prize
 
