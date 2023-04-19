@@ -1,5 +1,5 @@
 # TypeAdventurer
-A short decision-based game.
+A simple RPG-like game.
 
 ## Software used for this project
 - Visual Studio Code version: 1.77.0
