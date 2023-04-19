@@ -12,3 +12,4 @@ This is the my first try of a game played in windows console. It is like the Pok
 ### 1. [Install](https://code.visualstudio.com/download) Visual Studio Code for windows 10
 ### 2. Put all 4 files inside the same folder
 ### 3. Compile and run TypeAdventurer.cpp
+  ojsafa
