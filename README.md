@@ -6,7 +6,7 @@ A simple RPG-like game.
 - Compiler: gcc (MinGW.org GCC-6.3.0-1) 6.3.0
 
 ## About the game
-This is the my first try of a game played in Windows console. It is like the Pokemon RPG games, but very simple. There are few mechanics like moving, attacking, healing, using a lucky wheel. 
+This is the my first try of a game played in Windows console, i spent about two weeks on it's full development and all the changes I made along the way. It is like the Pokemon RPG games, but very simple. There are few mechanics like moving, attacking, healing, using a lucky wheel. 
 
 ## How to play the game
 ### 1. [Install](https://code.visualstudio.com/download) Visual Studio Code for Windows 10 and the [GCC Compiler](https://sourceforge.net/projects/mingw-w64/)(Windows 10 is necessary)
